@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+header > h1 {
+    color: rgb(189, 17, 137);
+}
+
+main#img {
+    text-align: center;
+}
